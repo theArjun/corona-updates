@@ -79,7 +79,7 @@ Total Cases : 502,876 in USA
 ## Meta
 
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/thearjun/coronaupdates/blob/master/LICENSE.txt](https://github.com/thearjun/coronaupdates/blob/master/LICENSE.txt)
 
@@ -91,5 +91,5 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTQxNjg4MiwxMzQ3MzE1MDg4XX0=
+eyJoaXN0b3J5IjpbLTE0MDAwMzU0MzcsMTM0NzMxNTA4OF19
 -->
