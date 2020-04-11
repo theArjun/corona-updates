@@ -13,7 +13,14 @@ pip install coronaupdates
 
 ## Usage examples 
 
+`coronaupdates`can run in two ways:
 
+1. In Your code
+2. In Command Line Interface
+
+### In Your Code
+```s
+### In Command LIne Interface
 
 ```sh
 usage: coronaupdates [-h] [--show category] [--country country]
@@ -74,5 +81,5 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxODEzNDY4XX0=
+eyJoaXN0b3J5IjpbLTE3NDI5OTQ4MzRdfQ==
 -->
