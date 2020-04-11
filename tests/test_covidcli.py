@@ -1,4 +1,4 @@
-from covid19cli import __version__
+from coronaupdates import __version__
 
 
 def test_version():
