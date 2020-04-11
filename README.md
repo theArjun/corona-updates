@@ -11,7 +11,9 @@ Command Line Interface for retrieving CoViD-19 related informations.
 pip install coronaupdates
 ```
 
-## Usage examples
+## Usage examples 
+
+
 
 ```sh
 usage: coronaupdates [-h] [--show category] [--country country]
@@ -71,3 +73,6 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTAxODEzNDY4XX0=
+-->
