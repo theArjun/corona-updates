@@ -22,7 +22,13 @@ pip install coronaupdates
 ```python
 from coronaupdates import Covid19
 
-cov = Covid19
+cov = Covid19()
+
+# Run the Command Line Interface from your code
+cov.parse_args_from_user()
+
+# Create the CSV of corona updates of real time.
+cov.create_csv(geography_type='country', fil)
 ```
 ### In Command LIne Interface
 
@@ -85,5 +91,5 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTU5NTYyNV19
+eyJoaXN0b3J5IjpbMTM0MzMzOTc4Nl19
 -->
