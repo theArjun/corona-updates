@@ -66,7 +66,6 @@ def parse_args_from_user():
 
     parser = argparse.ArgumentParser(
         description='Command Line Interface for Corona Virus (CoViD-19) Informations.',
-        prog='covid',
     )
 
     parser.add_argument('--show',
