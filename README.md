@@ -28,9 +28,9 @@ cov = Covid19()
 cov.parse_args_from_user()
 
 # Create the CSV of corona updates of real time.
-cov.create_csv(geography_type='country', fil)
+cov.create_csv(geography_type='country', filepath='/path/to/save/')
 ```
-### In Command LIne Interface
+### In Command Line Interface
 
 ```sh
 usage: coronaupdates [-h] [--show category] [--country country]
@@ -91,5 +91,5 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzMzOTc4Nl19
+eyJoaXN0b3J5IjpbMTM0NzMxNTA4OF19
 -->
