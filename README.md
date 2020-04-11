@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README</title>
+
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
@@ -111,5 +111,5 @@ Total Cases : 502,876 in USA
 
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTUxMzAzM119
+eyJoaXN0b3J5IjpbLTQwNjE3MzcxNl19
 -->
