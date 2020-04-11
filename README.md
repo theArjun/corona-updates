@@ -19,7 +19,11 @@ pip install coronaupdates
 2. In Command Line Interface
 
 ### In Your Code
-```s
+```python
+from coronaupdates import Covid19
+
+cov = Covid19
+```
 ### In Command LIne Interface
 
 ```sh
@@ -81,5 +85,5 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDI5OTQ4MzRdfQ==
+eyJoaXN0b3J5IjpbLTM0OTU5NTYyNV19
 -->
