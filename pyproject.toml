@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "covid19cli"
+name = "coronaupdates"
 version = "0.1.0"
 description = ""
 authors = ["thearjun <mailarjunadhikari@gmail.com>"]
