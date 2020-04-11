@@ -12,9 +12,9 @@ setup(
     author='Arjun Adhikari',                   # Type in your name
     author_email='mailarjunadhikari@gmail.com',      # Type in your E-Mail
     # Provide either the link to your github or to your website
-    url='https://github.com/thearjun/coronaupdates',
+    url='https://github.com/thearjun/corona-updates',
     # I explain this later on
-    download_url='https://github.com/theArjun/coronaupdates/archive/v1.0.0.tar.gz',
+    download_url='https://github.com/theArjun/corona-updates/archive/v1.0.0.tar.gz',
     keywords=['covid', 'coronaupdates', 'corona', 'virus',
               'pandemic'],   # Keywords that define your package best
     install_requires=[            # I get to this in a second
