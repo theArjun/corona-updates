@@ -34,7 +34,7 @@
 <pre class=" language-sh"><code class="prism  language-sh">pip install coronaupdates
 </code></pre>
 <h2 id="usage-examples">Usage examples</h2>
-<p><code>coronaupdates</code>can run in two ways:</p>
+<p><code>code>`can run in two ways:</p>
 <ol>
 <li>In Your code</li>
 <li>In Command Line Interface</li>
@@ -54,9 +54,7 @@ cov<span class="token punctuation">.</span>create_csv<span class="token punctuat
 <pre class=" language-sh"><code class="prism  language-sh">usage: coronaupdates [-h] [--show category] [--country country]
              [--downloadcsv filepath]
 
-Command Line Interface for Corona Virus (CoViD-19) Informations.
-
-optional arguments:
+Command Line Interface for Corona Virus (CoViD-19) Informations.optional arguments:
   -h, --help            show this help message and exit
   --show category, -s category
                         Shows the info by category
@@ -90,15 +88,21 @@ Total Cases : 502,876 in USA
 +--------------------+-----------+
 </code></pre>
 <h2 id="meta">Meta</h2>
-<p>Distributed under the MIT license. See <code>LICENSE</code> for more information.</p>
-<p><a href="https://github.com/thearjun/coronaupdates/blob/master/LICENSE.txt">https://github.com/thearjun/coronaupdates/blob/master/LICENSE.txt</a></p>
+<p>Distributed under the  license. See <code>``LICENSE</code>`` for more information.</p>
+<p><a href="
+
+[https://github.com/thearjun/coronaupdates/blob/master/LICENSE.txt">https://github.com/thearjun/coronaupdates/blob/master/LICENSE.txt</a></p>
 <h2 id="contributing">Contributing</h2>
 <ol>
 <li>Fork it (<a href="https://github.com/thearjun/coronavirus/fork">https://github.com/thearjun/coronavirus/fork</a>)</li>
-<li>Create your feature branch (<code>git checkout -b feature/fooBar</code>)</li>
-<li>Commit your changes (<code>git commit -am 'Add some fooBar'</code>)</li>
-<li>Push to the branch (<code>git push origin feature/fooBar</code>)</li>
-<li>Create a new Pull Request</li>
+<li>>)
+2. Create your feature branch (<code>`git checkout -b feature/fooBar</code>)</li>
+<li>`)
+3. Commit your changes (<code>`git commit -am 'Add some fooBar'</code>)</li>
+<li>`)
+4. Push to the branch (<code>`git push origin feature/fooBar</code>)</li>
+<li>`)
+5. Create a new Pull Request</li>
 </ol>
 
     </div>
@@ -106,3 +110,6 @@ Total Cases : 502,876 in USA
 </body>
 
 </html>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE2NTUxMzAzM119
+-->
