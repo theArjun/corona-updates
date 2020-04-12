@@ -1,9 +1,15 @@
-# Corona UpdatesCommand Line Interface for retrieving CoViD-19 related informations.`can run in two ways:
+# Corona Updates
 
-1. In Your code
-2. In Command Line Interface
+Command Line Interface for retrieving CoViD-19 related informations.
 
-### In Your Code
+## Usage
+
+`Corona Updates` can be run in two ways:
+
+1. From Your code
+2. From Command Line Interface
+
+### From Your Code
 ```python
 from coronaupdates import Covid19
 
@@ -15,7 +21,7 @@ cov.parse_args_from_user()
 # Create the CSV of corona updates of real time.
 cov.create_csv(geography_type='country', filepath='/path/to/save/')
 ```
-### In Command Line Interface
+### From Command Line Interface
 
 ```sh
 usage: coronaupdates [-h] [--show category] [--country country]
