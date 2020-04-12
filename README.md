@@ -1,19 +1,4 @@
-# Corona Updates
-Command Line Interface for retrieving CoViD-19 related informations. 
-
-![](header.png)
-
-## Installation
-
-
-
-```sh
-pip install coronaupdates
-```
-
-## Usage examples 
-
-`coronaupdates`can run in two ways:
+# Corona UpdatesCommand Line Interface for retrieving CoViD-19 related informations.`can run in two ways:
 
 1. In Your code
 2. In Command Line Interface
@@ -61,7 +46,10 @@ Total Cases : 502,876 in USA
 ```
 ```sh
 
- └> $ coronaupdates  -c usa
+ └></code></pre>
+<pre class=" language-sh"><code class="prism  language-sh"> └&gt; $ coronaupdates -s confirmed
+
+Total Cases : 1,700,378 WORLDW $ coronaupdates  -c usa
 +--------------------+-----------+
 | country            | USA       |
 | total_cases        | 502,876   |
@@ -91,5 +79,6 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDAwMzU0MzcsMTM0NzMxNTA4OF19
+eyJoaXN0b3J5IjpbMTU2MjA0MzUyMCwtMTQwMDAzNTQzNywxMz
+Q3MzE1MDg4XX0=
 -->
