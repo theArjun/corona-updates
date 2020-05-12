@@ -1,5 +1,7 @@
 # Corona Updates
 
+[![Downloads](https://pepy.tech/badge/coronaupdates)](https://pepy.tech/project/coronaupdates)
+
 Command Line Interface for retrieving CoViD-19 related informations.
 
 ## Usage
